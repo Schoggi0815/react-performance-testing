@@ -6,6 +6,8 @@
 ![GitHub Workflow Status](https://github.com/keiya01/react-performance-testing/workflows/build/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+FORK: Forked to fix dependencies, which should be devDependencies.
+
 This library is perfect for testing React or ReactNative runtime performance. `react-performance-testing` counts **the number of renders** and the **render time** in a test environment.
 
 ## Table of Contents
