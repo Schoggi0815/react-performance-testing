@@ -40,7 +40,7 @@
     "cp:readme": "cp ../../README.md .",
     "prepublish": "yarn cp:readme && yarn test && yarn build"
   },
-  "dependencies": {
+  "devDependencies": {
     "@types/react-native": "^0.63.8",
     "@types/styled-components": "^5.1.2",
     "metro-react-native-babel-preset": "^0.62.0",
